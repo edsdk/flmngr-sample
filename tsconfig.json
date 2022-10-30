@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "./sample/",
+        "module": "commonjs",
+        "target": "es5",
+        "baseUrl": "./src",
+        "declaration": false,
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
