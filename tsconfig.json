@@ -5,6 +5,7 @@
         "target": "es5",
         "baseUrl": "./src",
         "declaration": false,
+        "lib": ["dom"]
     },
     "include": [
         "src/**/*"

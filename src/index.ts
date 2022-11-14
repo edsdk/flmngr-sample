@@ -1,6 +1,10 @@
 import {Flmngr} from "flmngr";
 
-Flmngr.load("FLMNFLMN", {
+Flmngr.load({
+    apiKey: "FLMNFLMN",
+    urlFileManager: 'https://fm.flmngr.com/fileManager',
+    urlFiles: 'https://fm.flmngr.com/files',
+}, {
     onFlmngrAndImgPenLoaded: () => {
         let elBtn = document.getElementById("btn");
 
@@ -20,8 +24,6 @@ Flmngr.load("FLMNFLMN", {
 function selectFiles() {
 
     Flmngr.open({
-        urlFileManager: 'https://fm.flmngr.com/fileManager',
-        urlFiles: 'https://fm.flmngr.com/files',
         isMultiple: false,
         acceptExtensions: ["png", "jpg", "jpeg", "gif", "webp"],
         onFinish: (files) => {
