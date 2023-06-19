@@ -1,6 +1,6 @@
-<div style="margin: 20px 0 20px" align="center">
-    <img src="https://flmngr.com/img/favicons/favicon-45x45.png" alt="Flmngr" width="45" />
-    <h3>Flmngr</h3>
+<div style="margin: 20px 0 20px">
+    <img src="https://flmngr.com/img/Flmngr.png" alt="Flmngr" width="45" />
+    <div style="font-size: 24px;margin-top:-10px;font-weight: bold">Flmngr</div>
 </div>
 
 > <a href="https://flmngr.com">File Manager SDK</a> for integrating into any app or CMS</strong>
