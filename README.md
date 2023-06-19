@@ -8,7 +8,7 @@
 
 
 
-##Sample of simple NPM package usage in a custom app
+## Sample of simple NPM package usage in a custom app
 
 This demo shows how to import and preload Flmngr library, and make [Flmngr.open(...)](https://flmngr.com/doc/api#method_open) call to let a user pick a file from the server storage. After the file is picked and the dialog is closed, you can handle selected files using [onFinish](https://flmngr.com/doc/api#method_open__param_onFinish) callback.
 
