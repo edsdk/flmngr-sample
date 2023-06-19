@@ -1,10 +1,9 @@
-<p align="center">
-    <a href="https://flmngr.com/"><img src="https://flmngr.com/img/Flmngr.png" alt="Flmngr" width="90" /></a>
-</p>
+<div style="margin: 20px 0 20px" align="center">
+    <img src="https://flmngr.com/img/favicons/favicon-45x45.png" alt="Flmngr" width="45" />
+    <h3>Flmngr</h3>
+</div>
 
-<h1 align="center" style="margin-top:-20px">Flmngr</h1>
-
-<p align="center"><strong><a href="https://flmngr.com">File Manager SDK</a> for integrating into any app or CMS</strong></p>
+> <a href="https://flmngr.com">File Manager SDK</a> for integrating into any app or CMS</strong>
 
 
 
