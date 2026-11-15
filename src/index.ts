@@ -2,8 +2,8 @@ import {Flmngr} from "flmngr";
 
 Flmngr.load({
     apiKey: "FLMNFLMN",
-    urlFileManager: 'https://fm.flmngr.com/fileManager',
-    urlFiles: 'https://fm.flmngr.com/files',
+    urlFileManager: 'https://flmngr.democdn.com/file-manager-default',
+    urlFiles: 'https://flmngr.democdn.com/files/default',
 }, {
     onFlmngrAndImgPenLoaded: () => {
         let elBtn = document.getElementById("btn");

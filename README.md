@@ -14,6 +14,6 @@ This demo shows how to import and preload Flmngr library, and make [Flmngr.open(
 ### Useful links:
 
 - [Official website](https://flmngr.com)
-- [NPM package installation](https://doc/install-npm-package)
+- [NPM package installation](https://flmngr.com/doc/install-npm-package)
 - [API reference](https://flmngr.com/doc/api)
 - [Live demo](https://flmngr.com/doc/open-file-manager)
