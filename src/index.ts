@@ -1,7 +1,7 @@
 import {Flmngr} from "flmngr";
 
 Flmngr.load({
-    apiKey: "FLMNFLMN",
+    apiKey: "FLMN24RR1234123412341234",
     urlFileManager: 'https://flmngr.democdn.com/file-manager-default',
     urlFiles: 'https://flmngr.democdn.com/files/default',
 }, {
